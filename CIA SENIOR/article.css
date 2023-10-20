@@ -278,6 +278,10 @@ form span:hover {
     text-align: justify;
 }
 
+.article-text h2 {
+    color: #b2d1d1;
+}
+
 .data {
     color: #6f6f6f;
     font-style: italic;
